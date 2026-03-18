@@ -1,0 +1,17 @@
+header {padding: 20px;
+     text-align: center;
+      background: #ee0a0a;
+       color: white;
+        }
+
+#imagem-lamen { display: block;
+    margin: 15px auto;}
+
+#ingredients { padding: 20px;
+    ;}
+
+#modo-de-preparo { padding: 20px;
+    ;}
+
+footer { background: #ee0a0a;
+    padding: 20px;}
